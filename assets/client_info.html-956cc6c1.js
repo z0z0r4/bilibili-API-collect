@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-37e21a1c","path":"/docs/clientinfo/client_info.html","title":"终端信息查询","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"终端信息查询","slug":"终端信息查询-1","link":"#终端信息查询-1","children":[]}],"git":{},"filePathRelative":"docs/clientinfo/client_info.md"}');export{e as data};

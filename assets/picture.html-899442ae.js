@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-673bee43","path":"/docs/misc/picture.html","title":"图片格式化","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/misc/picture.md"}');export{t as data};
